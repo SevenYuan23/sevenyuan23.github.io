@@ -980,6 +980,9 @@ a.article-title:hover {
 .article-entry video,
 .article-entry a img {
   display: block;
+  -webkit-box-shadow: 3px 2px 3px #ddd;
+  box-shadow: 3px 2px 3px #ddd;
+  padding-top: 10px;
 }
 .article-entry iframe {
   border: none;
@@ -1360,10 +1363,6 @@ a.article-title:hover {
 }
 .lg-outer .lg-thumb-item {
   border-radius: 0 !important;
-}
-.img-shadow {
-  -webkit-box-shadow: 3px 2px 3px #ddd;
-  box-shadow: 3px 2px 3px #ddd;
 }
 #comments {
   padding: 20px;
