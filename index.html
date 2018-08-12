@@ -159,12 +159,12 @@
         </div>
         <div class="article-info profile-block">
             <div class="article-info-block">
-                3
+                2
                 <span>posts</span>
             </div>
             <div class="article-info-block">
-                2
-                <span>tags</span>
+                1
+                <span>tag</span>
             </div>
         </div>
         
@@ -233,29 +233,10 @@
                     <li>
                         
                         <div class="item-thumbnail">
-                            <a href="/2018/08/11/MathJax-Test/" class="thumbnail">
-    
-    
-        <span class="thumbnail-image thumbnail-none"></span>
-    
-</a>
-
-                        </div>
-                        
-                        <div class="item-inner">
-                            <p class="item-category"><a class="article-category-link" href="/categories/随笔/">随笔</a></p>
-                            <p class="item-title"><a href="/2018/08/11/MathJax-Test/" class="title">MathJax-Test</a></p>
-                            <p class="item-date"><time datetime="2018-08-11T13:03:31.000Z" itemprop="datePublished">2018-08-11</time></p>
-                        </div>
-                    </li>
-                
-                    <li>
-                        
-                        <div class="item-thumbnail">
                             <a href="/2018/08/11/Hello-World/" class="thumbnail">
     
     
-        <span class="thumbnail-image thumbnail-none"></span>
+        <span style="background-image:url(https://ws1.sinaimg.cn/thumbnail/6bb67c68ly1fu7axuw8a5j21b80nyafr.jpg)" alt="Hello, World" class="thumbnail-image"></span>
     
 </a>
 
@@ -277,7 +258,7 @@
     <div class="widget-wrap">
         <h3 class="widget-title">categories</h3>
         <div class="widget">
-            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Hexo/">Hexo</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/随笔/">随笔</a><span class="category-list-count">1</span></li></ul>
+            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Hexo/">Hexo</a><span class="category-list-count">1</span></li></ul>
         </div>
     </div>
 
@@ -286,7 +267,7 @@
     <div class="widget-wrap">
         <h3 class="widget-title">archives</h3>
         <div class="widget">
-            <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/08/">August 2018</a><span class="archive-list-count">3</span></li></ul>
+            <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/08/">August 2018</a><span class="archive-list-count">2</span></li></ul>
         </div>
     </div>
 
@@ -295,7 +276,7 @@
     <div class="widget-wrap">
         <h3 class="widget-title">tags</h3>
         <div class="widget">
-            <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Hexo/">Hexo</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Tex/">Tex</a><span class="tag-list-count">1</span></li></ul>
+            <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Hexo/">Hexo</a><span class="tag-list-count">1</span></li></ul>
         </div>
     </div>
 
@@ -304,7 +285,7 @@
     <div class="widget-wrap">
         <h3 class="widget-title">tag cloud</h3>
         <div class="widget tagcloud">
-            <a href="/tags/Hexo/" style="font-size: 10px;">Hexo</a> <a href="/tags/Tex/" style="font-size: 10px;">Tex</a>
+            <a href="/tags/Hexo/" style="font-size: 10px;">Hexo</a>
         </div>
     </div>
 
@@ -391,143 +372,7 @@
 
 </div>
 
-    <a data-url="http://yoursite.com/2018/08/12/Hexo-Icarus配置记录/" data-id="cjkqx9gzk00046cuh725k4eyb" class="article-share-link"><i class="fas fa-share"></i>Share</a>
-<script>
-    (function ($) {
-        // Prevent duplicate binding
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-</script>
-
-            
-    
-
-        </footer>
-    </div>
-    
-</article>
-
-
-
-    <article id="post-MathJax-Test" class="article article-type-post" itemscope itemprop="blogPost">
-    <div class="article-inner">
-        
-        
-            <header class="article-header">
-                
-    
-        <h1 itemprop="name">
-            <a class="article-title" href="/2018/08/11/MathJax-Test/">MathJax-Test</a>
-        </h1>
-    
-
-                
-                    <div class="article-meta">
-                        
-    <div class="article-date">
-        <i class="fas fa-calendar-alt"></i>
-        <a href="/2018/08/11/MathJax-Test/">
-            <time datetime="2018-08-11T13:03:31.000Z" itemprop="datePublished">2018-08-11</time>
-        </a>
-    </div>
-
-
-                        
-    <div class="article-category">
-    	<i class="fas fa-folder"></i>
-        <a class="article-category-link" href="/categories/随笔/">随笔</a>
-    </div>
-
-                        
-    <div class="article-tag">
-        <i class="fas fa-tag"></i>
-        <a class="tag-link" href="/tags/Tex/">Tex</a>
-    </div>
-
-                    </div>
-                
-            </header>
-        
-        
-        <div class="article-entry" itemprop="articleBody">
-        
-            
-            <p>When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are<br>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</p>
-<h3 id="test1"><a href="#test1" class="headerlink" title="test1"></a>test1</h3><p>今天天气真好</p>
-<ul>
-<li>温度</li>
-<li>湿度</li>
-<li>风速</li>
-</ul>
-
-        
-        </div>
-        <footer class="article-footer">
-            <div class="share-container">
-
-
-
-</div>
-
-    <a data-url="http://yoursite.com/2018/08/11/MathJax-Test/" data-id="cjkqx9gze00026cuhub26y4rc" class="article-share-link"><i class="fas fa-share"></i>Share</a>
+    <a data-url="http://yoursite.com/2018/08/12/Hexo-Icarus配置记录/" data-id="cjkqyi8jq0004ocuhzanh23q8" class="article-share-link"><i class="fas fa-share"></i>Share</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -606,6 +451,16 @@
     <article id="post-Hello-World" class="article article-type-post" itemscope itemprop="blogPost">
     <div class="article-inner">
         
+            
+	
+		<a href="/2018/08/11/Hello-World/" itemprop="url">
+            <img src="https://ws1.sinaimg.cn/large/6bb67c68ly1fu7axuw8a5j21b80nyafr.jpg" class="article-banner" />
+        </a>
+	
+
+
+
+        
         
             <header class="article-header">
                 
@@ -647,7 +502,7 @@
 
 </div>
 
-    <a data-url="http://yoursite.com/2018/08/11/Hello-World/" data-id="cjkqx9gz500006cuhv7c51dol" class="article-share-link"><i class="fas fa-share"></i>Share</a>
+    <a data-url="http://yoursite.com/2018/08/11/Hello-World/" data-id="cjkqyi8jf0000ocuhdmrej3ap" class="article-share-link"><i class="fas fa-share"></i>Share</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
