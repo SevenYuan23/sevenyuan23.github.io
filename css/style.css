@@ -138,7 +138,7 @@ code {
   background-color: #f8f8f8;
 }
 .outer {
-  max-width: 1320px;
+  max-width: 1220px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -170,7 +170,7 @@ code {
   width: 40px;
   height: 40px;
   background-repeat: no-repeat;
-  background-image: url("images/logo.png");
+  background-image: url("images/logo1.png");
   -webkit-background-size: 40px 40px;
   -moz-background-size: 40px 40px;
   background-size: 40px 40px;
@@ -185,16 +185,13 @@ code {
   #main {
     display: inline;
     float: left;
-    width: 52.307692307692314%;
-    margin: 0 0.769230769230769%;
+    width: 73.33333333333333%;
+    margin: 0 0.833333333333333%;
   }
 }
 @media screen and (min-width: 800px) and (max-width: 1199px) {
   #main {
-    display: inline;
-    float: left;
-    width: 67.6923076923077%;
-    margin: 0 0.769230769230769%;
+    width: 100%;
   }
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
@@ -643,8 +640,8 @@ code {
 #profile {
   display: inline;
   float: left;
-  width: 21.53846153846154%;
-  margin: 0 0.769230769230769%;
+  width: 23.333333333333332%;
+  margin: 0 0.833333333333333%;
   display: none;
   margin-bottom: 40px;
 }
@@ -1716,16 +1713,16 @@ a.article-title:hover {
   #sidebar {
     display: inline;
     float: left;
-    width: 21.53846153846154%;
-    margin: 0 0.769230769230769%;
+    width: 23.333333333333332%;
+    margin: 0 0.833333333333333%;
   }
 }
 @media screen and (min-width: 800px) and (max-width: 1199px) {
   #sidebar {
     display: inline;
     float: left;
-    width: 29.230769230769234%;
-    margin: 0 0.769230769230769%;
+    width: 31.666666666666664%;
+    margin: 0 0.833333333333333%;
   }
 }
 .widget {
@@ -2217,10 +2214,4 @@ a.article-title:hover {
 }
 .highlight .code .strong {
   font-weight: bold;
-}
-#main {
-  float: right;
-}
-#profile {
-  float: right;
 }
