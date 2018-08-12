@@ -498,6 +498,7 @@ code {
   width: 40px;
   height: 40px;
   margin-right: 8px;
+  border-radius: 20px;
 }
 #sub-nav #profile-nav .fa {
   line-height: 40px;
@@ -1068,6 +1069,7 @@ a.article-title:hover {
   display: inline-block;
   line-height: 1em;
   padding: 6px 15px;
+  margin: 0 0 20px 20px;
   border-radius: 15px;
   background: #f5f8f9;
   color: #999;
