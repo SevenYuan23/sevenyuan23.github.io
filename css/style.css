@@ -662,6 +662,7 @@ code {
   margin: 10px auto 20px;
   width: 128px;
   height: 128px;
+  border-radius: 64px;
 }
 #profile .inner .base-info #name,
 #profile .inner .base-info #title,
@@ -1591,6 +1592,16 @@ a.article-title:hover {
 #page-nav .current {
   color: #565a5f;
   font-weight: bold;
+}
+.post-copyright {
+  margin: 2em 0 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #ff1700;
+  background-color: #fff;
+  list-style: none;
+}
+.post-copyright li {
+  line-height: 30px;
 }
 .timeline-wrap {
   margin: 40px 20px 40px 40px;
