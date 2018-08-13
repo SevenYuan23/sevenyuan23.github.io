@@ -981,6 +981,7 @@ a.article-title:hover {
   -webkit-box-shadow: 3px 2px 3px #ddd;
   box-shadow: 3px 2px 3px #ddd;
   padding-top: 10px;
+  margin-bottom: 10px;
 }
 .article-entry iframe {
   border: none;
