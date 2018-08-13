@@ -1367,9 +1367,6 @@ a.article-title:hover {
   padding: 20px;
   margin: 40px 0;
 }
-#comments a {
-  color: #dd0a35;
-}
 .archives:before,
 .archives:after {
   content: "";
