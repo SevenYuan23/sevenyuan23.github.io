@@ -4,50 +4,117 @@
   <url>
     <loc>https://www.sevenyuan23.me/posts/614572fb.html</loc>
     
-    <lastmod>2021-08-22T10:34:51.243Z</lastmod>
+    <lastmod>2021-08-28</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.sevenyuan23.me/posts/e5d00308.html</loc>
     
-    <lastmod>2021-08-22T10:33:17.516Z</lastmod>
+    <lastmod>2021-08-22</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.sevenyuan23.me/posts/265b86c6.html</loc>
     
-    <lastmod>2021-08-22T10:30:09.728Z</lastmod>
+    <lastmod>2021-08-22</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.sevenyuan23.me/posts/db10e43d.html</loc>
     
-    <lastmod>2021-08-22T10:28:18.657Z</lastmod>
+    <lastmod>2021-08-22</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.sevenyuan23.me/about/index.html</loc>
     
-    <lastmod>2020-11-15T08:46:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.sevenyuan23.me/tags/index.html</loc>
-    
-    <lastmod>2018-08-11T05:04:28.000Z</lastmod>
+    <lastmod>2020-11-15</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.sevenyuan23.me/categories/index.html</loc>
     
-    <lastmod>2018-08-11T05:04:28.000Z</lastmod>
+    <lastmod>2018-08-11</lastmod>
     
+  </url>
+  
+  <url>
+    <loc>https://www.sevenyuan23.me/tags/index.html</loc>
+    
+    <lastmod>2018-08-11</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://www.sevenyuan23.me/</loc>
+    <lastmod>2021-08-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://www.sevenyuan23.me/tags/Hexo/</loc>
+    <lastmod>2021-08-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sevenyuan23.me/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
+    <lastmod>2021-08-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sevenyuan23.me/tags/epub/</loc>
+    <lastmod>2021-08-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sevenyuan23.me/tags/mobi/</loc>
+    <lastmod>2021-08-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sevenyuan23.me/tags/kindle/</loc>
+    <lastmod>2021-08-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://www.sevenyuan23.me/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2021-08-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sevenyuan23.me/categories/Hexo/</loc>
+    <lastmod>2021-08-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sevenyuan23.me/categories/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
+    <lastmod>2021-08-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   
 </urlset>
