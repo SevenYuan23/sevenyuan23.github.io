@@ -6,7 +6,7 @@
   <link href="https://www.sevenyuan23.me/atom.xml" rel="self"/>
   
   <link href="https://www.sevenyuan23.me/"/>
-  <updated>2021-08-28T16:23:05.493Z</updated>
+  <updated>2021-09-21T15:36:43.113Z</updated>
   <id>https://www.sevenyuan23.me/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用comsol模拟水的沸腾</title>
+    <link href="https://www.sevenyuan23.me/posts/c6fe5973.html"/>
+    <id>https://www.sevenyuan23.me/posts/c6fe5973.html</id>
+    <published>2021-08-29T12:28:27.000Z</published>
+    <updated>2021-09-21T15:36:43.113Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><h2 id="核沸腾"><a href="#核沸腾" class="headerlink" title="核沸腾"></a>核沸腾</h2><p>对于常压下的水，在 5 °C 到 30 °C 之间的过热度下会发生核沸腾。维持该表面温度所需的热流密度介于 \(10^4\,W/m^2\) 和 \(10^6\,W/m^2\) 之间。<span id="more"></span>在这个区域中，由于固体表面缺陷所产生的成核点，会因为气相和液相之间的传质作用而发生分离和扩展。在浮力的作用下，气泡开始逐渐上升，并且可能会与其他孤立的气泡合并从而产生射流或柱状物。由于分离的气泡会迅速的被液体替代，壁面附近的液体层的有效热导率会比较高。这意味着即使施加的热流密度非常高，表面的过热度依然会比较低。核沸腾在临界热流密度时效率最高（参照图一）。在该点液体仍然可以迅速的替代产生的蒸汽，从而有效的持续润湿表面。这导致换热系数会高达\(10^4\,W/(m^2 \cdot K)\)，远远高于任何仅由对流引起的传热系数。</p><p><img src="https://i.loli.net/2021/09/21/izaTpI3ycwWDLRF.png" alt="图1 水在大气压下的沸腾曲线（101325 Pa）。根据沸腾区域的不同相同的表面热流密度可以导致不同的过热度。"></p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h1&gt;&lt;h2 id=&quot;核沸腾&quot;&gt;&lt;a href=&quot;#核沸腾&quot; class=&quot;headerlink&quot; title=&quot;核沸腾&quot;&gt;&lt;/a&gt;核沸腾&lt;/h2&gt;&lt;p&gt;对于常压下的水，在 5 °C 到 30 °C 之间的过热度下会发生核沸腾。维持该表面温度所需的热流密度介于 \(10^4\,W/m^2\) 和 \(10^6\,W/m^2\) 之间。</summary>
+    
+    
+    
+    <category term="COMSOL" scheme="https://www.sevenyuan23.me/categories/COMSOL/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>西红柿肉沫蛋汤做法</title>
+    <link href="https://www.sevenyuan23.me/posts/e9eb21a1.html"/>
+    <id>https://www.sevenyuan23.me/posts/e9eb21a1.html</id>
+    <published>2021-08-29T05:06:03.000Z</published>
+    <updated>2021-08-29T05:11:23.941Z</updated>
+    
+    <content type="html"><![CDATA[<p>简单快速的家常菜！</p><span id="more"></span><h2 id="原料"><a href="#原料" class="headerlink" title="原料"></a>原料</h2><ol><li>生鸡蛋 1个</li><li>梅花肉 200g</li><li>西红柿 2个</li></ol><h2 id="辅料"><a href="#辅料" class="headerlink" title="辅料"></a>辅料</h2><p>盐、生姜、生抽</p><h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><ol><li><p>取出梅花肉，洗干净备用，切一小片生姜，与肉放在一起，将肉切块，随后剁碎；</p></li><li><p>将剁碎的肉与生姜放入盆中，打一个鸡蛋，用筷子将肉与鸡蛋搅匀；</p></li><li><p>在锅中倒入水，取两个西红柿切块放入锅中，加小勺盐，开火直至烧开；</p></li><li><p>将肉沫鸡蛋倒入锅中，用筷子搅匀，盖上盖子等其再次烧开；</p></li><li><p>取一小勺汤尝味，若咸淡适宜，则加入适量生抽，搅匀后关火，盛起。</p></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;简单快速的家常菜！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="食谱" scheme="https://www.sevenyuan23.me/categories/%E9%A3%9F%E8%B0%B1/"/>
+    
+    
+    <category term="食谱" scheme="https://www.sevenyuan23.me/tags/%E9%A3%9F%E8%B0%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>Sigil电子书制作笔记</title>
@@ -50,7 +90,7 @@
     <published>2018-08-14T14:16:52.000Z</published>
     <updated>2021-08-22T16:12:32.204Z</updated>
     
-    <content type="html"><![CDATA[<p>其实是很久之前制作的了，原帖首发在<a href="http://tieba.baidu.com/p/4452674847?pid=86833084219&cid=0#86833084219">贴吧</a>，在这里也发一份好了。</p><p>先贴一段关于《古典部系列》的介绍，感谢<a href="https://zh.moegirl.org/zh-hans/%E5%86%B0%E8%8F%93">萌娘百科</a>：</p><span id="more"></span><blockquote><p>〈古典部〉系列是一部关于少年推理的作品。在一群正要展开「蔷薇色」高中生活的高中生中，本作的男主角折木奉太郎却是一个「灰色」的节能主义者，即凡没必要的事不做，因为不想后悔，有人说他疏离、厌世也没所谓，因为这就是他的作风。这样的他，却因为姐姐的命令而进入了濒临废社的「古籍研究社」，虽然好不容易招到了四名新社员，但却又卷入了四十五年前社长突然退学的谜团之中。而社长当年留下命名为「冰菓」的社刊，内里究竟又隐藏了什么引人落泪的讯息……</p></blockquote><p>《冰菓》是这个系列的第一部作品，目前发售的中文版还有《愚者的片尾》，《库特利亚芙卡的排序》，《绕远路的雏人偶》，《两人距离的概算》共五部。</p><p>电子书使用sigil制作，也欢迎各位使用我的样式表&amp;模板，可以自己解包或者给我发送邮件（<a href="mailto:&#x73;&#x65;&#118;&#101;&#110;&#121;&#x75;&#97;&#x6e;&#x32;&#x33;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#109;">&#x73;&#x65;&#118;&#101;&#110;&#121;&#x75;&#97;&#x6e;&#x32;&#x33;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#109;</a>），关于电子书制作的相关问题也可以发邮件给我反馈。</p><p>电子书预览如下图所示，点击可查看大图：</p><div class="mygallery justified-gallery"> <img src="https://i.loli.net/2021/08/22/xtFgwY1IT4iAdLM.jpg" alt="封面"/><img src="https://i.loli.net/2021/08/22/bJwWAhdg2zU73Yo.jpg" alt="扉页"/><img src="https://i.loli.net/2021/08/22/6Vn2jhEGFexSc85.jpg" alt="目录"/><img src="https://i.loli.net/2021/08/22/xtgCW1pkQYvImG2.jpg" alt="章节封面"/><img src="https://i.loli.net/2021/08/22/qMRpvQBgmrYbTHe.jpg" alt="正文1"/><img src="https://i.loli.net/2021/08/22/Bu6XkpIsVFj1Lly.jpg" alt="正文2"/><img src="https://i.loli.net/2021/08/22/1lRr4YJStxip73C.jpg" alt="制作信息"/></div><p>下载：<a href="https://pan.baidu.com/s/1pawyhLHeeefTfwuLbF1JCQ">百度盘地址</a>（ 提取码: q3it）<strong>链接失效请在评论区反馈</strong>。</p><p>解压密码：sevenyuan23</p>]]></content>
+    <content type="html"><![CDATA[<p>其实是很久之前制作的了，原帖首发在<a href="http://tieba.baidu.com/p/4452674847?pid=86833084219&cid=0#86833084219">贴吧</a>，在这里也发一份好了。</p><p>先贴一段关于《古典部系列》的介绍，感谢<a href="https://zh.moegirl.org/zh-hans/%E5%86%B0%E8%8F%93">萌娘百科</a>：</p><span id="more"></span><blockquote><p>〈古典部〉系列是一部关于少年推理的作品。在一群正要展开「蔷薇色」高中生活的高中生中，本作的男主角折木奉太郎却是一个「灰色」的节能主义者，即凡没必要的事不做，因为不想后悔，有人说他疏离、厌世也没所谓，因为这就是他的作风。这样的他，却因为姐姐的命令而进入了濒临废社的「古籍研究社」，虽然好不容易招到了四名新社员，但却又卷入了四十五年前社长突然退学的谜团之中。而社长当年留下命名为「冰菓」的社刊，内里究竟又隐藏了什么引人落泪的讯息……</p></blockquote><p>《冰菓》是这个系列的第一部作品，目前发售的中文版还有《愚者的片尾》，《库特利亚芙卡的排序》，《绕远路的雏人偶》，《两人距离的概算》共五部。</p><p>电子书使用sigil制作，也欢迎各位使用我的样式表&amp;模板，可以自己解包或者给我发送邮件（<a href="mailto:&#x73;&#x65;&#118;&#101;&#110;&#x79;&#x75;&#97;&#x6e;&#x32;&#51;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#109;">&#x73;&#x65;&#118;&#101;&#110;&#x79;&#x75;&#97;&#x6e;&#x32;&#51;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#109;</a>），关于电子书制作的相关问题也可以发邮件给我反馈。</p><p>电子书预览如下图所示，点击可查看大图：</p><div class="mygallery justified-gallery"> <img src="https://i.loli.net/2021/08/22/xtFgwY1IT4iAdLM.jpg" alt="封面"/><img src="https://i.loli.net/2021/08/22/bJwWAhdg2zU73Yo.jpg" alt="扉页"/><img src="https://i.loli.net/2021/08/22/6Vn2jhEGFexSc85.jpg" alt="目录"/><img src="https://i.loli.net/2021/08/22/xtgCW1pkQYvImG2.jpg" alt="章节封面"/><img src="https://i.loli.net/2021/08/22/qMRpvQBgmrYbTHe.jpg" alt="正文1"/><img src="https://i.loli.net/2021/08/22/Bu6XkpIsVFj1Lly.jpg" alt="正文2"/><img src="https://i.loli.net/2021/08/22/1lRr4YJStxip73C.jpg" alt="制作信息"/></div><p>下载：<a href="https://pan.baidu.com/s/1pawyhLHeeefTfwuLbF1JCQ">百度盘地址</a>（ 提取码: q3it）<strong>链接失效请在评论区反馈</strong>。</p><p>解压密码：sevenyuan23</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;其实是很久之前制作的了，原帖首发在&lt;a href=&quot;http://tieba.baidu.com/p/4452674847?pid=86833084219&amp;cid=0#86833084219&quot;&gt;贴吧&lt;/a&gt;，在这里也发一份好了。&lt;/p&gt;

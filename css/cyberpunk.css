@@ -11663,6 +11663,10 @@ figure.highlight .section {
     padding: 1.5rem 1rem;
   }
 }
+article.article .content a img {
+  margin: auto;
+  display: block;
+}
 body {
   counter-reset: card;
 }
